@@ -112,8 +112,10 @@ Quick Manual Installation
 
 Visit the link below to get the script, then use nano to install it:
 
+**https://gist.github.com/techenthusiast167/6634c4eec7dd37d21eae7c2fe351be3e**
 
-Step-by-Step:
+
+#### Step-by-Step:
 
 - Click on the link below to access the script
 
